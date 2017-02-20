@@ -1,38 +1,18 @@
-Node.js Bootstrap Starter Template
-===
+Starter for Telefon
 
-A quick and easy Node.js + Jade template project, using Twitter Bootstrap.
+`for the first time` : 
 
-Also available for [Material](https://github.com/primaryobjects/Node.js-Material-Starter-Template).
+install nodejs in your computer.
 
-## Usage
-- Clone repository.
-- Open a command prompt, navigate to the folder, and enter: npm install
-- Next, run the app by entering: node app
-- Browse to http://localhost:3000
+1.clone
+2.open console(cmd)
+3.go to this folder
+4.npm i
+5.npm start
+6.go to http://localhost:3000 in your browser.
 
-## Demo:
-http://nodebootstrapper.herokuapp.com
 
-## Contents:
+`After this is done`
 
-- layout.jade
-- header.jade
-- footer.jade
-- index.jade
-
-## Editing Pages:
-
-Edit views/index.jade to add your content. The default contents include:
-
-```
-extends layout
-
-block content
-	div.container
-		h1 Program Name
-		p Hello World
-```
-
-## Author
-Kory Becker http://www.primaryobjects.com/kory-becker
+just run server : npm start
+and the server will start in localhost:3000
